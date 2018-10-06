@@ -2,35 +2,35 @@
 
 
 
-Need:
+**Need:**
 
-  ·python>= 3.5
+    ·python>= 3.5
   
-  ·PyQt5
+    ·PyQt5
   
-  ·pygame
+    ·pygame
   
-  ·numpy
+    ·numpy
   
-  ·xlrd
+    ·xlrd
   
-  ·xlutils.copy
+    ·xlutils.copy
   
-  ·tensorflow
-
-
-
-To play with the trained AI models，run:
-
-  ·UI.py
+    ·tensorflow
 
 
 
-To train the AI model, run:
+**To play with the trained AI models，run:**
 
-  ·Game.py
+    ·UI.py
+
+
+
+**To train the AI model, run:**
+
+    ·Game.py
   
   
   
-To be continued
+**To be continued**
 
