@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>bc.png</file>
+    <file>pure.jpg</file>
+    <file>bg_800.jpg</file>
+    <file>bj.png</file>
+    <file>bm.png</file>
+    <file>bp.png</file>
+    <file>bs.png</file>
+    <file>bx.png</file>
+    <file>move.mp3</file>
+    <file>move.png</file>
+    <file>rb.png</file>
+    <file>rc.png</file>
+    <file>rj.png</file>
+    <file>rm.png</file>
+    <file>rp.png</file>
+    <file>rs.png</file>
+    <file>rx.png</file>
+    <file>The_Nightingale.mp3</file>
+    <file>bb.png</file>
+  </qresource>
+</RCC>
